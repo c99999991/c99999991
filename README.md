@@ -1,6 +1,6 @@
-###  dsgrfdhfytrgdhrw3AGDBGRFSERW3EFGDGRFSERWF`1234567890-98765432134567890-98765467
-### 546754356789654356789654657896546786
-
+Hi, 
+- Im a student, currently studying software enginering.
+- I also like playing music and reading.
 <!--
 **c99999991/c99999991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
